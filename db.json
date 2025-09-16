@@ -581,7 +581,7 @@
         {
           "id": "6",
           "brand": "Persol",
-          "image": "/src/public/images/oli-woodman-s7gRHGEmX78-unsplash.jpg",
+          "image": "/images/oli-woodman-s7gRHGEmX78-unsplash.jpg",
           "model": "PO0649",
           "type": "normal",
           "frame_material": "Acetate",
@@ -599,7 +599,7 @@
             {
               "id": "6",
               "brand": "Persol",
-              "image": "/src/public/images/oli-woodman-s7gRHGEmX78-unsplash.jpg",
+              "image": "/images/oli-woodman-s7gRHGEmX78-unsplash.jpg",
               "model": "PO0649",
               "type": "normal",
               "frame_material": "Acetate",
@@ -612,7 +612,7 @@
             {
               "id": "7",
               "brand": "Prada",
-              "image": "/src/public/images/sunglasses.jpg",
+              "image": "/images/sunglasses.jpg",
               "model": "PR 09VS",
               "type": "sunglass",
               "frame_material": "Metal",
@@ -657,7 +657,7 @@
               "brand": "Oakley",
               "model": "Holbrook",
               "type": "normal",
-              "image": "/src/public/images/sunglasses (2).jpg",
+              "image": "/images/sunglasses (2).jpg",
               "frame_material": "O-Matter",
               "lens_type": "Prizm",
               "quantity": 1,
@@ -668,7 +668,7 @@
             {
               "id": "7",
               "brand": "Prada",
-              "image": "/src/public/images/sunglasses.jpg",
+              "image": "/images/sunglasses.jpg",
               "model": "PR 09VS",
               "type": "sunglass",
               "frame_material": "Metal",
@@ -697,7 +697,7 @@
             {
               "id": "7",
               "brand": "Prada",
-              "image": "/src/public/images/sunglasses.jpg",
+              "image": "/images/sunglasses.jpg",
               "model": "PR 09VS",
               "type": "sunglass",
               "frame_material": "Metal",
@@ -727,7 +727,7 @@
     {
       "id": "2",
       "brand": "Oakley",
-      "image": "/src/public/images/sunglasses (1).jpg",
+      "image": "/images/sunglasses (1).jpg",
       "model": "Holbrook",
       "type": "sunglass",
       "frame_material": "O-Matter",
@@ -742,7 +742,7 @@
       "brand": "Oakley",
       "model": "Holbrook",
       "type": "normal",
-      "image": "/src/public/images/sunglasses (2).jpg",
+      "image": "/images/sunglasses (2).jpg",
       "frame_material": "O-Matter",
       "lens_type": "Prizm",
       "quantity": 1,
@@ -753,7 +753,7 @@
     {
       "id": "6",
       "brand": "Persol",
-      "image": "/src/public/images/oli-woodman-s7gRHGEmX78-unsplash.jpg",
+      "image": "/images/oli-woodman-s7gRHGEmX78-unsplash.jpg",
       "model": "PO0649",
       "type": "normal",
       "frame_material": "Acetate",
@@ -766,7 +766,7 @@
     {
       "id": "7",
       "brand": "Prada",
-      "image": "/src/public/images/sunglasses.jpg",
+      "image": "/images/sunglasses.jpg",
       "model": "PR 09VS",
       "type": "sunglass",
       "frame_material": "Metal",
